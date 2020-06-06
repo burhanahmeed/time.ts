@@ -1,4 +1,4 @@
-import { Time, timezone } from "../mod.ts";
+import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts/mod.ts";
 
 console.log('Jakarta Timezone: ', new Time().timezone('Asia/Jakarta'))
 console.log('Singapore Timezone: ', new Time().timezone('Asia/Singapore'))
