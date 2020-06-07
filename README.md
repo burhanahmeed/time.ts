@@ -12,16 +12,27 @@
 </div>
 
 ---
-
+## Deno
+- [Deno.land third party module](https://deno.land/x/time.ts)
 
 ## Imports
 
 **From master branch**
 
 - <https://denopkg.com/burhanahmeed/time.ts/mod.ts>
+- <https://deno.land/x/time.ts/mod.ts>
+- <https://denoland.id/x/time.ts/mod.ts>
 
 ```typescript
 import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts/mod.ts";
+```
+or
+```typescript
+import { Time, timezone } from "https://deno.land/x/time.ts/mod.ts";
+```
+or
+```typescript
+import { Time, timezone } from "https://denoland.id/x/time.ts/mod.ts";
 ```
 
 ## API
