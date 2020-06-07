@@ -12,6 +12,9 @@
 </div>
 
 ---
+### There will be a major change in Time.ts v2.0.0
+So I do not recommend you to use this rn.
+
 ## Deno
 - [Deno.land third party module](https://deno.land/x/time.ts)
 
