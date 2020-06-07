@@ -1,3 +1,9 @@
+/**
+ * MIT License
+ * Copyright (c) 2020 Burhanuddin Ahmed
+ */
+
+
 export const timezone = [
     {
        "text": "(GMT+00:00) Bissau",
