@@ -1,3 +1,9 @@
+/**
+ * MIT License
+ * Copyright (c) 2020 Burhanuddin Ahmed
+ */
+
+
 import { timezone as List } from "./api.ts";
 import { privateReturn } from "./type.ts";
 
