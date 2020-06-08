@@ -13,15 +13,23 @@
 
 ---
 
+## Time.ts version: v1.0.0
+**Important Note**: there will be a major update on v2.0.0
 
 ## Imports
 
-**From master branch**
-
-- <https://denopkg.com/burhanahmeed/time.ts/mod.ts>
+**Version v1.0.0**
 
 ```typescript
-import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts/mod.ts";
+import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
+```
+or
+```typescript
+import { Time, timezone } from "https://deno.land/x/time.ts@v1.0.0/mod.ts";
+```
+or
+```typescript
+import { Time, timezone } from "https://denoland.id/x/time.ts@v1.0.0/mod.ts";
 ```
 
 ## API
@@ -33,7 +41,7 @@ Here is a basic example to get started with Time.ts
 
 Check this out on [Example directory](https://github.com/burhanahmeed/time.ts/tree/master/example).
 ```typescript
-import { Time } from "https://denopkg.com/burhanahmeed/time.ts/mod.ts";
+import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
 
 console.log('Jakarta Timezone: ', new Time().timezone('Asia/Jakarta'))
 //Jakarta Timezone:  2020-06-06T20:21:14.765Z
