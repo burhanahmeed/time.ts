@@ -33,14 +33,6 @@ or
 ```typescript
 import { Time, timezone } from "https://denoland.id/x/time.ts@v1.0.0/mod.ts";
 ```
-or
-```typescript
-import { Time, timezone } from "https://deno.land/x/time.ts/mod.ts";
-```
-or
-```typescript
-import { Time, timezone } from "https://denoland.id/x/time.ts/mod.ts";
-```
 
 ## API
 
