@@ -66,7 +66,7 @@ console.log('Now timezone: ', new Time().now)
 ```
 If you want to get the list of available timezone you can do like this.
 ```typescript
-import { timezone } from "https://denopkg.com/burhanahmeed/time.ts/mod.ts";
+import { timezone } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
 
 console.log(timezone)
 /**
