@@ -11,10 +11,12 @@
 
 </div>
 
----
 
 ## Time.ts version: v1.0.0
 **Important Note**: there will be a major update on v2.0.0
+
+## Deno
+- [Deno.land third party module](https://deno.land/x/time.ts)
 
 ## Imports
 
@@ -30,6 +32,14 @@ import { Time, timezone } from "https://deno.land/x/time.ts@v1.0.0/mod.ts";
 or
 ```typescript
 import { Time, timezone } from "https://denoland.id/x/time.ts@v1.0.0/mod.ts";
+```
+or
+```typescript
+import { Time, timezone } from "https://deno.land/x/time.ts/mod.ts";
+```
+or
+```typescript
+import { Time, timezone } from "https://denoland.id/x/time.ts/mod.ts";
 ```
 
 ## API
