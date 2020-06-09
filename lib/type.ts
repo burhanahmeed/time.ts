@@ -3,7 +3,11 @@ export interface privateReturn {
     text: string
 }
 
-export interface tzType {
-    timezone?: string,
+export interface TimeType {
     time?: string
+}
+
+export interface TimezoneType {
+    time?: string,
+    timezone?: string
 }

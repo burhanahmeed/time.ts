@@ -4,26 +4,69 @@
  */
 
 import { Timezone } from "./timezone.ts";
-import { tzType } from "./type.ts";
+import { TimeType } from "./type.ts";
 
-class Time extends Timezone {
-    constructor ({timezone, time}: tzType) {
-        super({timezone, time});
+const MINUTES_TO_MILISECOND = 60000;
+
+class Time {
+    public utc: string;
+    public now: string;
+    public _final: string;
+
+    private _t: string | undefined;
+
+    constructor ({ time }: TimeType) {
+        this.utc = new Date().toString();
+        this._t = time;
+        this._final = '';
+        this.now = this.getServerTime();
     }
 
-    public timenow(): string | Date {
-       this.now(); 
-       return this.manipulated;
+    toString () {
+        return this._final;
     }
 
+    private getServerTime () {
+        let getDifferenceToUtcInMilisec = new Date().getTimezoneOffset() * MINUTES_TO_MILISECOND;
+        let getUTCMilisecond = new Date().getTime();
+        if (this._t) {
+            getUTCMilisecond = new Date(this._t).getTime();
+        }
+        return new Date(getUTCMilisecond - getDifferenceToUtcInMilisec).toISOString();
+    }
 
+    public tz (timezone: string = 'utc') {
+        if (timezone == 'utc') {
+            this._final = this.utc;
+        } else {
+            let t = new Timezone({
+                timezone,
+                time: this._t
+            });
+            this._final = t.exec().manipulated;
+        }
+        return this;
+    }
     
 }
+/**
+ * 
+ * @param time 
+ * time() without any parameter will return datetime now on UTC time
+ */
+export function times (time: string | undefined = undefined) {
+    // if (undefined == times().now) {
+    //     return { now: 'a' }
+    // }
+    let t = '';
 
-function time (time: string | undefined = undefined) {
-    let t = new Time({ time: time });
-    if (!time) {
-        return t.timenow();
+    let tclass = new Time({ time });
+
+    if (time) {
+        t = `${tclass}`;
+    } else {
+
     }
-    return 
+
+    return t
 }
