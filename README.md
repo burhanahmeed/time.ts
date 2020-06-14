@@ -47,7 +47,7 @@ Here is a basic example to get started with Time.ts
 
 Check this out on [Example directory](https://github.com/burhanahmeed/time.ts/tree/master/example).
 ```typescript
-import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
+import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.0/mod.ts";
 
 console.log('Time now UTC: ',time().t)
 //Time now UTC:  2020-06-14T06:19:37.483Z
@@ -79,7 +79,7 @@ console.log('Time now of your server timezone: ',time().now())
 ```
 If you want to get the list of available timezone you can do like this.
 ```typescript
-import { timezone } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
+import { timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.0/mod.ts";
 
 console.log(timezone)
 /**
