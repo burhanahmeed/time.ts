@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![time.ts](https://raw.githubusercontent.com/burhanahmeed/time.ts/master/header.jpg)
+![time.ts](https://raw.githubusercontent.com/burhanahmeed/time.ts/master/header.png)
 
 ![release](https://badgen.net/github/release/burhanahmeed/time.ts)
 ![tags](https://badgen.net/github/tags/burhanahmeed/time.ts)
@@ -12,26 +12,30 @@
 </div>
 
 
-## Time.ts version: v1.0.0
-**Important Note**: there will be a major update on v2.0.0
+
+#### Version: Time.ts v2.0.0
+Please refers to [Time.ts v1.0.0](https://github.com/burhanahmeed/time.ts/tree/v1.0.0) if still using the old version.
 
 ## Deno
 - [Deno.land third party module](https://deno.land/x/time.ts)
 
-## Imports
 
-**Version v1.0.0**
-
+**From master branch**
 ```typescript
-import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
+import { Time, timezone } from "https://deno.land/x/time.ts/mod.ts";
+```
+
+**More safe import**
+```typescript
+import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.0/mod.ts";
 ```
 or
 ```typescript
-import { Time, timezone } from "https://deno.land/x/time.ts@v1.0.0/mod.ts";
+import { Time, timezone } from "https://deno.land/x/time.ts@v2.0.0/mod.ts";
 ```
 or
 ```typescript
-import { Time, timezone } from "https://denoland.id/x/time.ts@v1.0.0/mod.ts";
+import { Time, timezone } from "https://denoland.id/x/time.ts@v2.0.0/mod.ts";
 ```
 
 ## API
@@ -45,23 +49,32 @@ Check this out on [Example directory](https://github.com/burhanahmeed/time.ts/tr
 ```typescript
 import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v1.0.0/mod.ts";
 
-console.log('Jakarta Timezone: ', new Time().timezone('Asia/Jakarta'))
-//Jakarta Timezone:  2020-06-06T20:21:14.765Z
+console.log('Time now UTC: ',time().t)
+//Time now UTC:  2020-06-14T06:19:37.483Z
 
-console.log('Singapore Timezone: ', new Time().timezone('Asia/Singapore'))
-//Singapore Timezone:  2020-06-06T21:21:14.766Z
+console.log('Time now Singapore: ',time().tz('asia/singapore').t)
+//Time now Singapore:  2020-06-14T14:19:37.483Z
 
-console.log('Jakarta Timezone: ', new Time('2020-06-06 14:33:12').timezone('Asia/Jakarta'))
-//Jakarta Timezone:  2020-06-06T14:33:12.000Z
+console.log('Time now New York: ',time().tz('America/New_york').t)
+//Time now New York:  2020-06-14T01:19:37.484Z
 
-console.log('Singapore Timezone: ', new Time('2020-06-06 14:33:12').timezone('Asia/Singapore'))
-//Singapore Timezone:  2020-06-06T15:33:12.000Z
+console.log('Time now Jakarta: ',time().tz('asia/Jakarta').t)
+//Time now Jakarta:  2020-06-14T13:19:37.484Z
 
-console.log('UTC timezone: ', new Time().utc)
-//UTC timezone:  2020-06-06T13:21:14.766Z
+console.log('Time now UTC string: ',time().toString())
+//Time now UTC string:  Sun, 14 Jun 2020 06:21:21 GMT
 
-console.log('Now timezone: ', new Time().now)
-//Now timezone:  2020-06-06T20:21:14.766Z
+console.log('Time now UTC: ',time('2020-06-09 09:19').t)
+//Time now UTC:  2020-06-09T02:19:00.000Z
+
+console.log('Time now Singapore: ',time('2020-06-09 09:19').tz('asia/singapore').t)
+//Time now Singapore:  2020-06-09T10:19:00.000Z
+
+console.log('Time now UTC another way: ',time().tz('utc').t)
+//Time now UTC another way:  2020-06-14T06:34:19.344Z
+
+console.log('Time now of your server timezone: ',time().now())
+//Time now of your server timezone:  2020-06-14T13:35:17.927Z
 
 ```
 If you want to get the list of available timezone you can do like this.
