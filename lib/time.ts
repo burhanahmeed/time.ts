@@ -31,13 +31,13 @@ class Time {
 
     public now () {
         this.t = parseDateNow();
-        return this;
+        return this.t;
     }
 
     public tz (timezone: string = 'utc') {
         const { _t } = this;
         if (timezone == 'utc') {
-            this.t = parseDate();
+            this.t = parseDate(_t);
         } else {
             let t = new Timezone({
                 timezone,
