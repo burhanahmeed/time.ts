@@ -34,32 +34,11 @@ export const timezone = [
       "text": "(GMT +01:00) Algiers"
     },
     {
-      "id": "Africa/Nairobi",
-      "country_code": "ER",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "ML",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
       "id": "Africa/Lagos",
       "country_code": "CF",
       "offset": "+01:00",
       "dst": "+01:00",
       "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "GM",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
     },
     {
       "id": "Africa/Bissau",
@@ -71,20 +50,6 @@ export const timezone = [
     {
       "id": "Africa/Maputo",
       "country_code": "MW",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "CG",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "BI",
       "offset": "+02:00",
       "dst": "+02:00",
       "text": "(GMT +02:00) Maputo"
@@ -111,67 +76,11 @@ export const timezone = [
       "text": "(GMT +01:00) Ceuta"
     },
     {
-      "id": "Africa/Abidjan",
-      "country_code": "GN",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "SN",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
-      "id": "Africa/Nairobi",
-      "country_code": "TZ",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
-    },
-    {
-      "id": "Africa/Nairobi",
-      "country_code": "DJ",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "CM",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
       "id": "Africa/El_Aaiun",
       "country_code": "EH",
       "offset": "+00:00",
       "dst": "+01:00",
       "text": "(GMT +00:00) El_Aaiun"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "SL",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "BW",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "ZW",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
     },
     {
       "id": "Africa/Johannesburg",
@@ -188,109 +97,11 @@ export const timezone = [
       "text": "(GMT +03:00) Juba"
     },
     {
-      "id": "Africa/Nairobi",
-      "country_code": "UG",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
-    },
-    {
       "id": "Africa/Khartoum",
       "country_code": "SD",
       "offset": "+02:00",
       "dst": "+02:00",
       "text": "(GMT +02:00) Khartoum"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "RW",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "CD",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "NG",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "GA",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "TG",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "AO",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "CD",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "ZM",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "GQ",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Maputo",
-      "country_code": "MZ",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Maputo"
-    },
-    {
-      "id": "Africa/Johannesburg",
-      "country_code": "LS",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Johannesburg"
-    },
-    {
-      "id": "Africa/Johannesburg",
-      "country_code": "SZ",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Johannesburg"
-    },
-    {
-      "id": "Africa/Nairobi",
-      "country_code": "SO",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
     },
     {
       "id": "Africa/Monrovia",
@@ -300,60 +111,11 @@ export const timezone = [
       "text": "(GMT +00:00) Monrovia"
     },
     {
-      "id": "Africa/Nairobi",
-      "country_code": "KE",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
-    },
-    {
       "id": "Africa/Ndjamena",
       "country_code": "TD",
       "offset": "+01:00",
       "dst": "+01:00",
       "text": "(GMT +01:00) Ndjamena"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "NE",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "MR",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "BF",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "BJ",
-      "offset": "+01:00",
-      "dst": "+01:00",
-      "text": "(GMT +01:00) Lagos"
-    },
-    {
-      "id": "Africa/Lagos",
-      "country_code": "ST",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Lagos"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
     },
     {
       "id": "Africa/Tripoli",
@@ -398,13 +160,6 @@ export const timezone = [
       "text": "(GMT −04:00) Port_of_Spain"
     },
     {
-      "id": "America/Port_of_Spain",
-      "country_code": "AG",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
       "id": "America/Araguaina",
       "country_code": "BR",
       "offset": "−03:00",
@@ -421,13 +176,6 @@ export const timezone = [
     {
       "id": "America/Argentina/Catamarca",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
-    },
-    {
-      "id": "America/Argentina/Catamarca",
-      "country_code": "",
       "offset": "−03:00",
       "dst": "−03:00",
       "text": "(GMT −03:00) Argentina"
@@ -524,13 +272,6 @@ export const timezone = [
       "text": "(GMT −05:00) Atikokan"
     },
     {
-      "id": "America/Adak",
-      "country_code": "",
-      "offset": "−10:00",
-      "dst": "−09:00",
-      "text": "(GMT −10:00) Adak"
-    },
-    {
       "id": "America/Bahia",
       "country_code": "BR",
       "offset": "−03:00",
@@ -594,13 +335,6 @@ export const timezone = [
       "text": "(GMT −07:00) Boise"
     },
     {
-      "id": "America/Argentina/Buenos_Aires",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
-    },
-    {
       "id": "America/Cambridge_Bay",
       "country_code": "CA",
       "offset": "−07:00",
@@ -627,13 +361,6 @@ export const timezone = [
       "offset": "−04:00",
       "dst": "−04:00",
       "text": "(GMT −04:00) Caracas"
-    },
-    {
-      "id": "America/Argentina/Catamarca",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
     },
     {
       "id": "America/Cayenne",
@@ -664,20 +391,6 @@ export const timezone = [
       "text": "(GMT −07:00) Chihuahua"
     },
     {
-      "id": "America/Atikokan",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Atikokan"
-    },
-    {
-      "id": "America/Argentina/Cordoba",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
-    },
-    {
       "id": "America/Costa_Rica",
       "country_code": "CR",
       "offset": "−06:00",
@@ -697,13 +410,6 @@ export const timezone = [
       "offset": "−04:00",
       "dst": "−03:00",
       "text": "(GMT −04:00) Cuiaba"
-    },
-    {
-      "id": "America/Curacao",
-      "country_code": "CW",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Curacao"
     },
     {
       "id": "America/Danmarkshavn",
@@ -739,13 +445,6 @@ export const timezone = [
       "offset": "−05:00",
       "dst": "−04:00",
       "text": "(GMT −05:00) Detroit"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "DM",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
     },
     {
       "id": "America/Edmonton",
@@ -825,20 +524,6 @@ export const timezone = [
       "text": "(GMT −05:00) Grand_Turk"
     },
     {
-      "id": "America/Port_of_Spain",
-      "country_code": "GD",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "GP",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
       "id": "America/Guatemala",
       "country_code": "GT",
       "offset": "−06:00",
@@ -879,13 +564,6 @@ export const timezone = [
       "offset": "−07:00",
       "dst": "−07:00",
       "text": "(GMT −07:00) Hermosillo"
-    },
-    {
-      "id": "America/Indiana/Indianapolis",
-      "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
     },
     {
       "id": "America/Indiana/Knox",
@@ -937,13 +615,6 @@ export const timezone = [
       "text": "(GMT −05:00) Indiana"
     },
     {
-      "id": "America/Indiana/Indianapolis",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
-    },
-    {
       "id": "America/Inuvik",
       "country_code": "CA",
       "offset": "−07:00",
@@ -963,13 +634,6 @@ export const timezone = [
       "offset": "−05:00",
       "dst": "−05:00",
       "text": "(GMT −05:00) Jamaica"
-    },
-    {
-      "id": "America/Argentina/Jujuy",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
     },
     {
       "id": "America/Juneau",
@@ -993,20 +657,6 @@ export const timezone = [
       "text": "(GMT −05:00) Kentucky"
     },
     {
-      "id": "America/Indiana/Knox",
-      "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Indiana"
-    },
-    {
-      "id": "America/Curacao",
-      "country_code": "BQ",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Curacao"
-    },
-    {
       "id": "America/La_Paz",
       "country_code": "BO",
       "offset": "−04:00",
@@ -1026,20 +676,6 @@ export const timezone = [
       "offset": "−08:00",
       "dst": "−07:00",
       "text": "(GMT −08:00) Los_Angeles"
-    },
-    {
-      "id": "America/Kentucky/Louisville",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Kentucky"
-    },
-    {
-      "id": "America/Curacao",
-      "country_code": "SX",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Curacao"
     },
     {
       "id": "America/Maceio",
@@ -1063,13 +699,6 @@ export const timezone = [
       "text": "(GMT −04:00) Manaus"
     },
     {
-      "id": "America/Port_of_Spain",
-      "country_code": "MF",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
       "id": "America/Martinique",
       "country_code": "MQ",
       "offset": "−04:00",
@@ -1089,13 +718,6 @@ export const timezone = [
       "offset": "−07:00",
       "dst": "−06:00",
       "text": "(GMT −07:00) Mazatlan"
-    },
-    {
-      "id": "America/Argentina/Mendoza",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
     },
     {
       "id": "America/Menominee",
@@ -1161,13 +783,6 @@ export const timezone = [
       "text": "(GMT −05:00) Toronto"
     },
     {
-      "id": "America/Port_of_Spain",
-      "country_code": "MS",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
       "id": "America/Nassau",
       "country_code": "BS",
       "offset": "−05:00",
@@ -1231,13 +846,6 @@ export const timezone = [
       "text": "(GMT −07:00) Ojinaga"
     },
     {
-      "id": "America/Panama",
-      "country_code": "PA",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Panama"
-    },
-    {
       "id": "America/Pangnirtung",
       "country_code": "CA",
       "offset": "−05:00",
@@ -1257,13 +865,6 @@ export const timezone = [
       "offset": "−07:00",
       "dst": "−07:00",
       "text": "(GMT −07:00) Phoenix"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "TT",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
     },
     {
       "id": "America/Port-au-Prince",
@@ -1336,27 +937,6 @@ export const timezone = [
       "text": "(GMT −06:00) Resolute"
     },
     {
-      "id": "America/Rio_Branco",
-      "country_code": "BR",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Rio_Branco"
-    },
-    {
-      "id": "America/Argentina/Cordoba",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
-    },
-    {
-      "id": "America/Tijuana",
-      "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Tijuana"
-    },
-    {
       "id": "America/Santarem",
       "country_code": "BR",
       "offset": "−03:00",
@@ -1392,13 +972,6 @@ export const timezone = [
       "text": "(GMT −01:00) Scoresbysund"
     },
     {
-      "id": "America/Denver",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Denver"
-    },
-    {
       "id": "America/Sitka",
       "country_code": "US",
       "offset": "−09:00",
@@ -1406,46 +979,11 @@ export const timezone = [
       "text": "(GMT −09:00) Sitka"
     },
     {
-      "id": "America/Port_of_Spain",
-      "country_code": "BL",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
       "id": "America/St_Johns",
       "country_code": "CA",
       "offset": "−03:30",
       "dst": "−02:30",
       "text": "(GMT −03:30) St_Johns"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "KN",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "LC",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "VI",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "VC",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
     },
     {
       "id": "America/Swift_Current",
@@ -1476,39 +1014,11 @@ export const timezone = [
       "text": "(GMT −05:00) Thunder_Bay"
     },
     {
-      "id": "America/Tijuana",
-      "country_code": "MX",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Tijuana"
-    },
-    {
-      "id": "America/Toronto",
-      "country_code": "CA",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Toronto"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "VG",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
-    },
-    {
       "id": "America/Vancouver",
       "country_code": "CA",
       "offset": "−08:00",
       "dst": "−07:00",
       "text": "(GMT −08:00) Vancouver"
-    },
-    {
-      "id": "America/Port_of_Spain",
-      "country_code": "",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
     },
     {
       "id": "America/Whitehorse",
@@ -1595,13 +1105,6 @@ export const timezone = [
       "text": "(GMT −03:00) Rothera"
     },
     {
-      "id": "Pacific/Auckland",
-      "country_code": "",
-      "offset": "+12:00",
-      "dst": "+13:00",
-      "text": "(GMT +12:00) Auckland"
-    },
-    {
       "id": "Antarctica/Syowa",
       "country_code": "AQ",
       "offset": "+03:00",
@@ -1674,13 +1177,6 @@ export const timezone = [
     {
       "id": "Asia/Ashgabat",
       "country_code": "TM",
-      "offset": "+05:00",
-      "dst": "+05:00",
-      "text": "(GMT +05:00) Ashgabat"
-    },
-    {
-      "id": "Asia/Ashgabat",
-      "country_code": "",
       "offset": "+05:00",
       "dst": "+05:00",
       "text": "(GMT +05:00) Ashgabat"
@@ -1777,13 +1273,6 @@ export const timezone = [
       "text": "(GMT +08:00) Shanghai"
     },
     {
-      "id": "Asia/Shanghai",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Shanghai"
-    },
-    {
       "id": "Asia/Colombo",
       "country_code": "LK",
       "offset": "+05:30",
@@ -1803,13 +1292,6 @@ export const timezone = [
       "offset": "+02:00",
       "dst": "+03:00",
       "text": "(GMT +02:00) Damascus"
-    },
-    {
-      "id": "Asia/Dhaka",
-      "country_code": "BD",
-      "offset": "+06:00",
-      "dst": "+06:00",
-      "text": "(GMT +06:00) Dhaka"
     },
     {
       "id": "Asia/Dili",
@@ -1845,13 +1327,6 @@ export const timezone = [
       "offset": "+02:00",
       "dst": "+03:00",
       "text": "(GMT +02:00) Gaza"
-    },
-    {
-      "id": "Asia/Shanghai",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Shanghai"
     },
     {
       "id": "Asia/Hebron",
@@ -1952,25 +1427,11 @@ export const timezone = [
       "text": "(GMT +05:45) Kathmandu"
     },
     {
-      "id": "Asia/Kathmandu",
-      "country_code": "",
-      "offset": "+05:45",
-      "dst": "+05:45",
-      "text": "(GMT +05:45) Kathmandu"
-    },
-    {
       "id": "Asia/Khandyga",
       "country_code": "RU",
       "offset": "+09:00",
       "dst": "+09:00",
       "text": "(GMT +09:00) Khandyga"
-    },
-    {
-      "id": "Asia/Kolkata",
-      "country_code": "IN",
-      "offset": "+05:30",
-      "dst": "+05:30",
-      "text": "(GMT +05:30) Kolkata"
     },
     {
       "id": "Asia/Krasnoyarsk",
@@ -1994,22 +1455,8 @@ export const timezone = [
       "text": "(GMT +08:00) Kuching"
     },
     {
-      "id": "Asia/Riyadh",
-      "country_code": "KW",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Riyadh"
-    },
-    {
       "id": "Asia/Macau",
       "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Macau"
-    },
-    {
-      "id": "Asia/Macau",
-      "country_code": "MO",
       "offset": "+08:00",
       "dst": "+08:00",
       "text": "(GMT +08:00) Macau"
@@ -2034,13 +1481,6 @@ export const timezone = [
       "offset": "+08:00",
       "dst": "+08:00",
       "text": "(GMT +08:00) Manila"
-    },
-    {
-      "id": "Asia/Dubai",
-      "country_code": "OM",
-      "offset": "+04:00",
-      "dst": "+04:00",
-      "text": "(GMT +04:00) Dubai"
     },
     {
       "id": "Asia/Novokuznetsk",
@@ -2071,13 +1511,6 @@ export const timezone = [
       "text": "(GMT +05:00) Oral"
     },
     {
-      "id": "Asia/Bangkok",
-      "country_code": "KH",
-      "offset": "+07:00",
-      "dst": "+07:00",
-      "text": "(GMT +07:00) Bangkok"
-    },
-    {
       "id": "Asia/Pontianak",
       "country_code": "ID",
       "offset": "+07:00",
@@ -2092,13 +1525,6 @@ export const timezone = [
       "text": "(GMT +09:00) Pyongyang"
     },
     {
-      "id": "Asia/Qatar",
-      "country_code": "QA",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Qatar"
-    },
-    {
       "id": "Asia/Qyzylorda",
       "country_code": "KZ",
       "offset": "+05:00",
@@ -2111,20 +1537,6 @@ export const timezone = [
       "offset": "+06:30",
       "dst": "+06:30",
       "text": "(GMT +06:30) Yangon"
-    },
-    {
-      "id": "Asia/Riyadh",
-      "country_code": "SA",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Riyadh"
-    },
-    {
-      "id": "Asia/Ho_Chi_Minh",
-      "country_code": "",
-      "offset": "+07:00",
-      "dst": "+07:00",
-      "text": "(GMT +07:00) Ho_Chi_Minh"
     },
     {
       "id": "Asia/Sakhalin",
@@ -2146,13 +1558,6 @@ export const timezone = [
       "offset": "+09:00",
       "dst": "+09:00",
       "text": "(GMT +09:00) Seoul"
-    },
-    {
-      "id": "Asia/Shanghai",
-      "country_code": "CN",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Shanghai"
     },
     {
       "id": "Asia/Singapore",
@@ -2197,22 +1602,8 @@ export const timezone = [
       "text": "(GMT +03:30) Tehran"
     },
     {
-      "id": "Asia/Jerusalem",
-      "country_code": "",
-      "offset": "+02:00",
-      "dst": "+03:00",
-      "text": "(GMT +02:00) Jerusalem"
-    },
-    {
       "id": "Asia/Thimphu",
       "country_code": "",
-      "offset": "+06:00",
-      "dst": "+06:00",
-      "text": "(GMT +06:00) Thimphu"
-    },
-    {
-      "id": "Asia/Thimphu",
-      "country_code": "BT",
       "offset": "+06:00",
       "dst": "+06:00",
       "text": "(GMT +06:00) Thimphu"
@@ -2232,22 +1623,8 @@ export const timezone = [
       "text": "(GMT +07:00) Tomsk"
     },
     {
-      "id": "Asia/Makassar",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Makassar"
-    },
-    {
       "id": "Asia/Ulaanbaatar",
       "country_code": "MN",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Ulaanbaatar"
-    },
-    {
-      "id": "Asia/Ulaanbaatar",
-      "country_code": "",
       "offset": "+08:00",
       "dst": "+08:00",
       "text": "(GMT +08:00) Ulaanbaatar"
@@ -2267,13 +1644,6 @@ export const timezone = [
       "text": "(GMT +10:00) Ust-Nera"
     },
     {
-      "id": "Asia/Bangkok",
-      "country_code": "LA",
-      "offset": "+07:00",
-      "dst": "+07:00",
-      "text": "(GMT +07:00) Bangkok"
-    },
-    {
       "id": "Asia/Vladivostok",
       "country_code": "RU",
       "offset": "+10:00",
@@ -2286,13 +1656,6 @@ export const timezone = [
       "offset": "+09:00",
       "dst": "+09:00",
       "text": "(GMT +09:00) Yakutsk"
-    },
-    {
-      "id": "Asia/Yangon",
-      "country_code": "MM",
-      "offset": "+06:30",
-      "dst": "+06:30",
-      "text": "(GMT +06:30) Yangon"
     },
     {
       "id": "Asia/Yekaterinburg",
@@ -2344,20 +1707,6 @@ export const timezone = [
       "text": "(GMT +00:00) Faroe"
     },
     {
-      "id": "Atlantic/Faroe",
-      "country_code": "FO",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) Faroe"
-    },
-    {
-      "id": "Europe/Oslo",
-      "country_code": "",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Oslo"
-    },
-    {
       "id": "Atlantic/Madeira",
       "country_code": "PT",
       "offset": "+00:00",
@@ -2377,13 +1726,6 @@ export const timezone = [
       "offset": "−02:00",
       "dst": "−02:00",
       "text": "(GMT −02:00) South_Georgia"
-    },
-    {
-      "id": "Africa/Abidjan",
-      "country_code": "SH",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Abidjan"
     },
     {
       "id": "Atlantic/Stanley",
@@ -2419,13 +1761,6 @@ export const timezone = [
       "offset": "+09:30",
       "dst": "+10:30",
       "text": "(GMT +09:30) Broken_Hill"
-    },
-    {
-      "id": "Australia/Sydney",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+11:00",
-      "text": "(GMT +10:00) Sydney"
     },
     {
       "id": "Australia/Currie",
@@ -2470,13 +1805,6 @@ export const timezone = [
       "text": "(GMT +10:00) Lindeman"
     },
     {
-      "id": "Australia/Lord_Howe",
-      "country_code": "AU",
-      "offset": "+10:30",
-      "dst": "+11:00",
-      "text": "(GMT +10:30) Lord_Howe"
-    },
-    {
       "id": "Australia/Melbourne",
       "country_code": "AU",
       "offset": "+10:00",
@@ -2484,172 +1812,11 @@ export const timezone = [
       "text": "(GMT +10:00) Melbourne"
     },
     {
-      "id": "Australia/Darwin",
-      "country_code": "",
-      "offset": "+09:30",
-      "dst": "+09:30",
-      "text": "(GMT +09:30) Darwin"
-    },
-    {
-      "id": "Australia/Sydney",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+11:00",
-      "text": "(GMT +10:00) Sydney"
-    },
-    {
       "id": "Australia/Perth",
       "country_code": "AU",
       "offset": "+08:00",
       "dst": "+08:00",
       "text": "(GMT +08:00) Perth"
-    },
-    {
-      "id": "Australia/Brisbane",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+10:00",
-      "text": "(GMT +10:00) Brisbane"
-    },
-    {
-      "id": "Australia/Adelaide",
-      "country_code": "",
-      "offset": "+09:30",
-      "dst": "+10:30",
-      "text": "(GMT +09:30) Adelaide"
-    },
-    {
-      "id": "Australia/Sydney",
-      "country_code": "AU",
-      "offset": "+10:00",
-      "dst": "+11:00",
-      "text": "(GMT +10:00) Sydney"
-    },
-    {
-      "id": "Australia/Hobart",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+11:00",
-      "text": "(GMT +10:00) Hobart"
-    },
-    {
-      "id": "Australia/Melbourne",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+11:00",
-      "text": "(GMT +10:00) Melbourne"
-    },
-    {
-      "id": "Australia/Perth",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Perth"
-    },
-    {
-      "id": "Australia/Broken_Hill",
-      "country_code": "",
-      "offset": "+09:30",
-      "dst": "+10:30",
-      "text": "(GMT +09:30) Broken_Hill"
-    },
-    {
-      "id": "America/Rio_Branco",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Rio_Branco"
-    },
-    {
-      "id": "America/Noronha",
-      "country_code": "",
-      "offset": "−02:00",
-      "dst": "−02:00",
-      "text": "(GMT −02:00) Noronha"
-    },
-    {
-      "id": "America/Sao_Paulo",
-      "country_code": "",
-      "offset": "−03:00",
-      "dst": "−02:00",
-      "text": "(GMT −03:00) Sao_Paulo"
-    },
-    {
-      "id": "America/Manaus",
-      "country_code": "",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Manaus"
-    },
-    {
-      "id": "America/Halifax",
-      "country_code": "",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Halifax"
-    },
-    {
-      "id": "America/Winnipeg",
-      "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Winnipeg"
-    },
-    {
-      "id": "America/Toronto",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Toronto"
-    },
-    {
-      "id": "America/Edmonton",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Edmonton"
-    },
-    {
-      "id": "America/St_Johns",
-      "country_code": "",
-      "offset": "−03:30",
-      "dst": "−02:30",
-      "text": "(GMT −03:30) St_Johns"
-    },
-    {
-      "id": "America/Vancouver",
-      "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Vancouver"
-    },
-    {
-      "id": "America/Regina",
-      "country_code": "",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Regina"
-    },
-    {
-      "id": "America/Whitehorse",
-      "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Whitehorse"
-    },
-    {
-      "id": "Choose a zone that observes CET, such as Europe/Paris.",
-      "country_code": "",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Paris."
-    },
-    {
-      "id": "America/Santiago",
-      "country_code": "",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Santiago"
     },
     {
       "id": "Pacific/Easter",
@@ -2659,32 +1826,11 @@ export const timezone = [
       "text": "(GMT −06:00) Easter"
     },
     {
-      "id": "Choose a zone that observes CST with United States daylight saving time rules, such as America/Chicago.",
+      "id": "merica/Chicago",
       "country_code": "",
       "offset": "−06:00",
       "dst": "−05:00",
       "text": "(GMT −06:00) Chicago."
-    },
-    {
-      "id": "America/Havana",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Havana"
-    },
-    {
-      "id": "Choose a zone that observes EET, such as Europe/Sofia.",
-      "country_code": "",
-      "offset": "+02:00",
-      "dst": "+03:00",
-      "text": "(GMT +02:00) Sofia."
-    },
-    {
-      "id": "Africa/Cairo",
-      "country_code": "",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Cairo"
     },
     {
       "id": "Europe/Dublin",
@@ -2692,27 +1838,6 @@ export const timezone = [
       "offset": "+00:00",
       "dst": "+01:00",
       "text": "(GMT +00:00) Dublin"
-    },
-    {
-      "id": "Choose a zone that currently observes EST without daylight saving time, such as America/Cancun.",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Cancun."
-    },
-    {
-      "id": "Choose a zone that observes EST with United States daylight saving time rules, such as America/New_York.",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) New_York."
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
     },
     {
       "id": "Etc/GMT",
@@ -2804,20 +1929,6 @@ export const timezone = [
       "offset": "−09:00",
       "dst": "−09:00",
       "text": "(GMT −09:00) GMT+9"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
     },
     {
       "id": "Etc/GMT-1",
@@ -2918,32 +2029,11 @@ export const timezone = [
       "text": "(GMT +09:00) GMT-9"
     },
     {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
       "id": "",
       "country_code": "",
       "offset": "+00:00",
       "dst": "+00:00",
       "text": "(GMT +00:00) undefined"
-    },
-    {
-      "id": "Etc/UTC",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) UTC"
-    },
-    {
-      "id": "Etc/UTC",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) UTC"
     },
     {
       "id": "Etc/UTC",
@@ -3051,13 +2141,6 @@ export const timezone = [
       "text": "(GMT +01:00) Copenhagen"
     },
     {
-      "id": "Europe/Dublin",
-      "country_code": "IE",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) Dublin"
-    },
-    {
       "id": "Europe/Gibraltar",
       "country_code": "GI",
       "offset": "+01:00",
@@ -3065,39 +2148,11 @@ export const timezone = [
       "text": "(GMT +01:00) Gibraltar"
     },
     {
-      "id": "Europe/London",
-      "country_code": "GG",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) London"
-    },
-    {
       "id": "Europe/Helsinki",
       "country_code": "FI",
       "offset": "+02:00",
       "dst": "+03:00",
       "text": "(GMT +02:00) Helsinki"
-    },
-    {
-      "id": "Europe/London",
-      "country_code": "IM",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) London"
-    },
-    {
-      "id": "Europe/Istanbul",
-      "country_code": "TR",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Istanbul"
-    },
-    {
-      "id": "Europe/London",
-      "country_code": "JE",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) London"
     },
     {
       "id": "Europe/Kaliningrad",
@@ -3121,27 +2176,6 @@ export const timezone = [
       "text": "(GMT +03:00) Kirov"
     },
     {
-      "id": "Europe/Lisbon",
-      "country_code": "PT",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) Lisbon"
-    },
-    {
-      "id": "Europe/Belgrade",
-      "country_code": "SI",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Belgrade"
-    },
-    {
-      "id": "Europe/London",
-      "country_code": "GB",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) London"
-    },
-    {
       "id": "Europe/Luxembourg",
       "country_code": "LU",
       "offset": "+01:00",
@@ -3161,13 +2195,6 @@ export const timezone = [
       "offset": "+01:00",
       "dst": "+02:00",
       "text": "(GMT +01:00) Malta"
-    },
-    {
-      "id": "Europe/Helsinki",
-      "country_code": "AX",
-      "offset": "+02:00",
-      "dst": "+03:00",
-      "text": "(GMT +02:00) Helsinki"
     },
     {
       "id": "Europe/Minsk",
@@ -3198,32 +2225,11 @@ export const timezone = [
       "text": "(GMT +02:00) Nicosia"
     },
     {
-      "id": "Europe/Oslo",
-      "country_code": "NO",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Oslo"
-    },
-    {
       "id": "Europe/Paris",
       "country_code": "FR",
       "offset": "+01:00",
       "dst": "+02:00",
       "text": "(GMT +01:00) Paris"
-    },
-    {
-      "id": "Europe/Belgrade",
-      "country_code": "ME",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Belgrade"
-    },
-    {
-      "id": "Europe/Prague",
-      "country_code": "CZ",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Prague"
     },
     {
       "id": "Europe/Riga",
@@ -3247,20 +2253,6 @@ export const timezone = [
       "text": "(GMT +04:00) Samara"
     },
     {
-      "id": "Europe/Rome",
-      "country_code": "SM",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Rome"
-    },
-    {
-      "id": "Europe/Belgrade",
-      "country_code": "BA",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Belgrade"
-    },
-    {
       "id": "Europe/Saratov",
       "country_code": "RU",
       "offset": "+04:00",
@@ -3273,13 +2265,6 @@ export const timezone = [
       "offset": "+03:00",
       "dst": "+03:00",
       "text": "(GMT +03:00) Simferopol"
-    },
-    {
-      "id": "Europe/Belgrade",
-      "country_code": "MK",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Belgrade"
     },
     {
       "id": "Europe/Sofia",
@@ -3310,13 +2295,6 @@ export const timezone = [
       "text": "(GMT +01:00) Tirane"
     },
     {
-      "id": "Europe/Chisinau",
-      "country_code": "",
-      "offset": "+02:00",
-      "dst": "+03:00",
-      "text": "(GMT +02:00) Chisinau"
-    },
-    {
       "id": "Europe/Ulyanovsk",
       "country_code": "RU",
       "offset": "+04:00",
@@ -3329,20 +2307,6 @@ export const timezone = [
       "offset": "+02:00",
       "dst": "+03:00",
       "text": "(GMT +02:00) Uzhgorod"
-    },
-    {
-      "id": "Europe/Zurich",
-      "country_code": "LI",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Zurich"
-    },
-    {
-      "id": "Europe/Rome",
-      "country_code": "VA",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Rome"
     },
     {
       "id": "Europe/Vienna",
@@ -3373,102 +2337,11 @@ export const timezone = [
       "text": "(GMT +01:00) Warsaw"
     },
     {
-      "id": "Europe/Belgrade",
-      "country_code": "HR",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Belgrade"
-    },
-    {
       "id": "Europe/Zaporozhye",
       "country_code": "UA",
       "offset": "+02:00",
       "dst": "+03:00",
       "text": "(GMT +02:00) Zaporozhye"
-    },
-    {
-      "id": "Europe/Zurich",
-      "country_code": "CH",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Zurich"
-    },
-    {
-      "id": "Europe/London",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) London"
-    },
-    {
-      "id": "Europe/London",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) London"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
-      "id": "Etc/GMT",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) GMT"
-    },
-    {
-      "id": "Asia/Hong_Kong",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Hong_Kong"
-    },
-    {
-      "id": "Choose a zone that currently observes HST without daylight saving time, such as Pacific/Honolulu.",
-      "country_code": "",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) Honolulu."
-    },
-    {
-      "id": "Atlantic/Reykjavik",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) Reykjavik"
-    },
-    {
-      "id": "Africa/Nairobi",
-      "country_code": "MG",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
     },
     {
       "id": "Indian/Chagos",
@@ -3490,13 +2363,6 @@ export const timezone = [
       "offset": "+06:30",
       "dst": "+06:30",
       "text": "(GMT +06:30) Cocos"
-    },
-    {
-      "id": "Africa/Nairobi",
-      "country_code": "KM",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
     },
     {
       "id": "Indian/Kerguelen",
@@ -3527,13 +2393,6 @@ export const timezone = [
       "text": "(GMT +04:00) Mauritius"
     },
     {
-      "id": "Africa/Nairobi",
-      "country_code": "YT",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Nairobi"
-    },
-    {
       "id": "Indian/Reunion",
       "country_code": "RE",
       "offset": "+04:00",
@@ -3541,102 +2400,11 @@ export const timezone = [
       "text": "(GMT +04:00) Reunion"
     },
     {
-      "id": "Asia/Tehran",
-      "country_code": "",
-      "offset": "+03:30",
-      "dst": "+04:30",
-      "text": "(GMT +03:30) Tehran"
-    },
-    {
-      "id": "Asia/Jerusalem",
-      "country_code": "",
-      "offset": "+02:00",
-      "dst": "+03:00",
-      "text": "(GMT +02:00) Jerusalem"
-    },
-    {
-      "id": "America/Jamaica",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Jamaica"
-    },
-    {
-      "id": "Asia/Tokyo",
-      "country_code": "",
-      "offset": "+09:00",
-      "dst": "+09:00",
-      "text": "(GMT +09:00) Tokyo"
-    },
-    {
       "id": "Pacific/Kwajalein",
       "country_code": "",
       "offset": "+12:00",
       "dst": "+12:00",
       "text": "(GMT +12:00) Kwajalein"
-    },
-    {
-      "id": "Africa/Tripoli",
-      "country_code": "",
-      "offset": "+02:00",
-      "dst": "+02:00",
-      "text": "(GMT +02:00) Tripoli"
-    },
-    {
-      "id": "Choose a zone that observes MET (sames as CET), such as Europe/Paris.",
-      "country_code": "",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Paris."
-    },
-    {
-      "id": "America/Tijuana",
-      "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Tijuana"
-    },
-    {
-      "id": "America/Mazatlan",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Mazatlan"
-    },
-    {
-      "id": "America/Mexico_City",
-      "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Mexico_City"
-    },
-    {
-      "id": "Choose a zone that currently observes MST without daylight saving time, such as America/Phoenix.",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Phoenix."
-    },
-    {
-      "id": "Choose a zone that observes MST with United States daylight saving time rules, such as America/Denver.",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Denver."
-    },
-    {
-      "id": "America/Denver",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Denver"
-    },
-    {
-      "id": "Pacific/Auckland",
-      "country_code": "",
-      "offset": "+12:00",
-      "dst": "+13:00",
-      "text": "(GMT +12:00) Auckland"
     },
     {
       "id": "Pacific/Chatham",
@@ -3653,13 +2421,6 @@ export const timezone = [
       "text": "(GMT +13:00) Apia"
     },
     {
-      "id": "Pacific/Auckland",
-      "country_code": "NZ",
-      "offset": "+12:00",
-      "dst": "+13:00",
-      "text": "(GMT +12:00) Auckland"
-    },
-    {
       "id": "Pacific/Bougainville",
       "country_code": "PG",
       "offset": "+11:00",
@@ -3667,25 +2428,11 @@ export const timezone = [
       "text": "(GMT +11:00) Bougainville"
     },
     {
-      "id": "Pacific/Chatham",
-      "country_code": "NZ",
-      "offset": "+12:45",
-      "dst": "+13:45",
-      "text": "(GMT +12:45) Chatham"
-    },
-    {
       "id": "Pacific/Chuuk",
       "country_code": "FM",
       "offset": "+10:00",
       "dst": "+10:00",
       "text": "(GMT +10:00) Chuuk"
-    },
-    {
-      "id": "Pacific/Easter",
-      "country_code": "CL",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Easter"
     },
     {
       "id": "Pacific/Efate",
@@ -3758,13 +2505,6 @@ export const timezone = [
       "text": "(GMT −10:00) Honolulu"
     },
     {
-      "id": "Pacific/Honolulu",
-      "country_code": "",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) Honolulu"
-    },
-    {
       "id": "Pacific/Kiritimati",
       "country_code": "KI",
       "offset": "+14:00",
@@ -3777,13 +2517,6 @@ export const timezone = [
       "offset": "+11:00",
       "dst": "+11:00",
       "text": "(GMT +11:00) Kosrae"
-    },
-    {
-      "id": "Pacific/Kwajalein",
-      "country_code": "MH",
-      "offset": "+12:00",
-      "dst": "+12:00",
-      "text": "(GMT +12:00) Kwajalein"
     },
     {
       "id": "Pacific/Majuro",
@@ -3835,13 +2568,6 @@ export const timezone = [
       "text": "(GMT +11:00) Noumea"
     },
     {
-      "id": "Pacific/Pago_Pago",
-      "country_code": "AS",
-      "offset": "−11:00",
-      "dst": "−11:00",
-      "text": "(GMT −11:00) Pago_Pago"
-    },
-    {
       "id": "Pacific/Palau",
       "country_code": "PW",
       "offset": "+09:00",
@@ -3863,13 +2589,6 @@ export const timezone = [
       "text": "(GMT +11:00) Pohnpei"
     },
     {
-      "id": "Pacific/Pohnpei",
-      "country_code": "",
-      "offset": "+11:00",
-      "dst": "+11:00",
-      "text": "(GMT +11:00) Pohnpei"
-    },
-    {
       "id": "Pacific/Port_Moresby",
       "country_code": "PG",
       "offset": "+10:00",
@@ -3882,20 +2601,6 @@ export const timezone = [
       "offset": "−10:00",
       "dst": "−10:00",
       "text": "(GMT −10:00) Rarotonga"
-    },
-    {
-      "id": "Pacific/Guam",
-      "country_code": "MP",
-      "offset": "+10:00",
-      "dst": "+10:00",
-      "text": "(GMT +10:00) Guam"
-    },
-    {
-      "id": "Pacific/Pago_Pago",
-      "country_code": "",
-      "offset": "−11:00",
-      "dst": "−11:00",
-      "text": "(GMT −11:00) Pago_Pago"
     },
     {
       "id": "Pacific/Tahiti",
@@ -3919,13 +2624,6 @@ export const timezone = [
       "text": "(GMT +13:00) Tongatapu"
     },
     {
-      "id": "Pacific/Chuuk",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+10:00",
-      "text": "(GMT +10:00) Chuuk"
-    },
-    {
       "id": "Pacific/Wake",
       "country_code": "UM",
       "offset": "+12:00",
@@ -3940,67 +2638,11 @@ export const timezone = [
       "text": "(GMT +12:00) Wallis"
     },
     {
-      "id": "Pacific/Chuuk",
-      "country_code": "",
-      "offset": "+10:00",
-      "dst": "+10:00",
-      "text": "(GMT +10:00) Chuuk"
-    },
-    {
-      "id": "Europe/Warsaw",
-      "country_code": "",
-      "offset": "+01:00",
-      "dst": "+02:00",
-      "text": "(GMT +01:00) Warsaw"
-    },
-    {
-      "id": "Europe/Lisbon",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+01:00",
-      "text": "(GMT +00:00) Lisbon"
-    },
-    {
-      "id": "Asia/Shanghai",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Shanghai"
-    },
-    {
-      "id": "Choose a zone that observes PST with United States daylight saving time rules, such as America/Los_Angeles.",
+      "id": "America/PST",
       "country_code": "",
       "offset": "−08:00",
       "dst": "−07:00",
-      "text": "(GMT −08:00) Los_Angeles."
-    },
-    {
-      "id": "Asia/Taipei",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Taipei"
-    },
-    {
-      "id": "Asia/Seoul",
-      "country_code": "",
-      "offset": "+09:00",
-      "dst": "+09:00",
-      "text": "(GMT +09:00) Seoul"
-    },
-    {
-      "id": "Asia/Singapore",
-      "country_code": "",
-      "offset": "+08:00",
-      "dst": "+08:00",
-      "text": "(GMT +08:00) Singapore"
-    },
-    {
-      "id": "Europe/Istanbul",
-      "country_code": "",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Istanbul"
+      "text": "(GMT −08:00) Pacific Time"
     },
     {
       "id": "Etc/UCT",
@@ -4010,129 +2652,11 @@ export const timezone = [
       "text": "(GMT +00:00) UCT"
     },
     {
-      "id": "Etc/UTC",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) UTC"
-    },
-    {
-      "id": "America/Anchorage",
-      "country_code": "",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Anchorage"
-    },
-    {
-      "id": "America/Adak",
-      "country_code": "",
-      "offset": "−10:00",
-      "dst": "−09:00",
-      "text": "(GMT −10:00) Adak"
-    },
-    {
-      "id": "America/Phoenix",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Phoenix"
-    },
-    {
-      "id": "America/Chicago",
-      "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Chicago"
-    },
-    {
-      "id": "America/New_York",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) New_York"
-    },
-    {
-      "id": "America/Indiana/Indianapolis",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
-    },
-    {
-      "id": "Pacific/Honolulu",
-      "country_code": "",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) Honolulu"
-    },
-    {
-      "id": "America/Indiana/Knox",
-      "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Indiana"
-    },
-    {
-      "id": "America/Detroit",
-      "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Detroit"
-    },
-    {
-      "id": "America/Denver",
-      "country_code": "",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Denver"
-    },
-    {
-      "id": "America/Los_Angeles",
-      "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Los_Angeles"
-    },
-    {
-      "id": "America/Los_Angeles",
-      "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Los_Angeles"
-    },
-    {
-      "id": "Pacific/Pago_Pago",
-      "country_code": "",
-      "offset": "−11:00",
-      "dst": "−11:00",
-      "text": "(GMT −11:00) Pago_Pago"
-    },
-    {
-      "id": "Etc/UTC",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) UTC"
-    },
-    {
-      "id": "Choose a zone that observes WET, such as Europe/Lisbon.",
-      "country_code": "",
+      "id": "Europe/Lisbon",
+      "country_code": "PT",
       "offset": "+00:00",
       "dst": "+01:00",
       "text": "(GMT +00:00) Lisbon."
-    },
-    {
-      "id": "Europe/Moscow",
-      "country_code": "",
-      "offset": "+03:00",
-      "dst": "+03:00",
-      "text": "(GMT +03:00) Moscow"
-    },
-    {
-      "id": "Etc/UTC",
-      "country_code": "",
-      "offset": "+00:00",
-      "dst": "+00:00",
-      "text": "(GMT +00:00) UTC"
     }
   ]
+
