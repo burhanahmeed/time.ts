@@ -141,275 +141,275 @@ export const timezone = [
     {
       "id": "America/Adak",
       "country_code": "US",
-      "offset": "−10:00",
-      "dst": "−09:00",
-      "text": "(GMT −10:00) Adak"
+      "offset": "-10:00",
+      "dst": "-09:00",
+      "text": "(GMT -10:00) Adak"
     },
     {
       "id": "America/Anchorage",
       "country_code": "US",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Anchorage"
+      "offset": "-09:00",
+      "dst": "-08:00",
+      "text": "(GMT -09:00) Anchorage"
     },
     {
       "id": "America/Port_of_Spain",
       "country_code": "AI",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Port_of_Spain"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Port_of_Spain"
     },
     {
       "id": "America/Araguaina",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Araguaina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Araguaina"
     },
     {
       "id": "America/Argentina/Buenos_Aires",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Catamarca",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Cordoba",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Jujuy",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/La_Rioja",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Mendoza",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Rio_Gallegos",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Salta",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/San_Juan",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/San_Luis",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Tucuman",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Argentina/Ushuaia",
       "country_code": "AR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Argentina"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Argentina"
     },
     {
       "id": "America/Curacao",
       "country_code": "AW",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Curacao"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Curacao"
     },
     {
       "id": "America/Asuncion",
       "country_code": "PY",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Asuncion"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Asuncion"
     },
     {
       "id": "America/Atikokan",
       "country_code": "CA",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Atikokan"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Atikokan"
     },
     {
       "id": "America/Bahia",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Bahia"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Bahia"
     },
     {
       "id": "America/Bahia_Banderas",
       "country_code": "MX",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Bahia_Banderas"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Bahia_Banderas"
     },
     {
       "id": "America/Barbados",
       "country_code": "BB",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Barbados"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Barbados"
     },
     {
       "id": "America/Belem",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Belem"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Belem"
     },
     {
       "id": "America/Belize",
       "country_code": "BZ",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Belize"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Belize"
     },
     {
       "id": "America/Blanc-Sablon",
       "country_code": "CA",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Blanc-Sablon"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Blanc-Sablon"
     },
     {
       "id": "America/Boa_Vista",
       "country_code": "BR",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Boa_Vista"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Boa_Vista"
     },
     {
       "id": "America/Bogota",
       "country_code": "CO",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Bogota"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Bogota"
     },
     {
       "id": "America/Boise",
       "country_code": "US",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Boise"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Boise"
     },
     {
       "id": "America/Cambridge_Bay",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Cambridge_Bay"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Cambridge_Bay"
     },
     {
       "id": "America/Campo_Grande",
       "country_code": "BR",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Campo_Grande"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Campo_Grande"
     },
     {
       "id": "America/Cancun",
       "country_code": "MX",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Cancun"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Cancun"
     },
     {
       "id": "America/Caracas",
       "country_code": "VE",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Caracas"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Caracas"
     },
     {
       "id": "America/Cayenne",
       "country_code": "GF",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Cayenne"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Cayenne"
     },
     {
       "id": "America/Panama",
       "country_code": "KY",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Panama"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Panama"
     },
     {
       "id": "America/Chicago",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Chicago"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Chicago"
     },
     {
       "id": "America/Chihuahua",
       "country_code": "MX",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Chihuahua"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Chihuahua"
     },
     {
       "id": "America/Costa_Rica",
       "country_code": "CR",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Costa_Rica"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Costa_Rica"
     },
     {
       "id": "America/Creston",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Creston"
+      "offset": "-07:00",
+      "dst": "-07:00",
+      "text": "(GMT -07:00) Creston"
     },
     {
       "id": "America/Cuiaba",
       "country_code": "BR",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Cuiaba"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Cuiaba"
     },
     {
       "id": "America/Danmarkshavn",
@@ -421,632 +421,632 @@ export const timezone = [
     {
       "id": "America/Dawson",
       "country_code": "CA",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Dawson"
+      "offset": "-08:00",
+      "dst": "-07:00",
+      "text": "(GMT -08:00) Dawson"
     },
     {
       "id": "America/Dawson_Creek",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Dawson_Creek"
+      "offset": "-07:00",
+      "dst": "-07:00",
+      "text": "(GMT -07:00) Dawson_Creek"
     },
     {
       "id": "America/Denver",
       "country_code": "US",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Denver"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Denver"
     },
     {
       "id": "America/Detroit",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Detroit"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Detroit"
     },
     {
       "id": "America/Edmonton",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Edmonton"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Edmonton"
     },
     {
       "id": "America/Eirunepe",
       "country_code": "BR",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Eirunepe"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Eirunepe"
     },
     {
       "id": "America/El_Salvador",
       "country_code": "SV",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) El_Salvador"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) El_Salvador"
     },
     {
       "id": "America/Tijuana",
       "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Tijuana"
+      "offset": "-08:00",
+      "dst": "-07:00",
+      "text": "(GMT -08:00) Tijuana"
     },
     {
       "id": "America/Fort_Nelson",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Fort_Nelson"
+      "offset": "-07:00",
+      "dst": "-07:00",
+      "text": "(GMT -07:00) Fort_Nelson"
     },
     {
       "id": "America/Indiana/Indianapolis",
       "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Indiana"
     },
     {
       "id": "America/Fortaleza",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Fortaleza"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Fortaleza"
     },
     {
       "id": "America/Glace_Bay",
       "country_code": "CA",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Glace_Bay"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Glace_Bay"
     },
     {
       "id": "America/Godthab",
       "country_code": "GL",
-      "offset": "−03:00",
-      "dst": "−02:00",
-      "text": "(GMT −03:00) Godthab"
+      "offset": "-03:00",
+      "dst": "-02:00",
+      "text": "(GMT -03:00) Godthab"
     },
     {
       "id": "America/Goose_Bay",
       "country_code": "CA",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Goose_Bay"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Goose_Bay"
     },
     {
       "id": "America/Grand_Turk",
       "country_code": "TC",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Grand_Turk"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Grand_Turk"
     },
     {
       "id": "America/Guatemala",
       "country_code": "GT",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Guatemala"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Guatemala"
     },
     {
       "id": "America/Guayaquil",
       "country_code": "EC",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Guayaquil"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Guayaquil"
     },
     {
       "id": "America/Guyana",
       "country_code": "GY",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Guyana"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Guyana"
     },
     {
       "id": "America/Halifax",
       "country_code": "CA",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Halifax"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Halifax"
     },
     {
       "id": "America/Havana",
       "country_code": "CU",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Havana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Havana"
     },
     {
       "id": "America/Hermosillo",
       "country_code": "MX",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Hermosillo"
+      "offset": "-07:00",
+      "dst": "-07:00",
+      "text": "(GMT -07:00) Hermosillo"
     },
     {
       "id": "America/Indiana/Knox",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Indiana"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Indiana"
     },
     {
       "id": "America/Indiana/Marengo",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Indiana"
     },
     {
       "id": "America/Indiana/Petersburg",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Indiana"
     },
     {
       "id": "America/Indiana/Tell_City",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Indiana"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Indiana"
     },
     {
       "id": "America/Indiana/Vevay",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Indiana"
     },
     {
       "id": "America/Indiana/Vincennes",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Indiana"
     },
     {
       "id": "America/Indiana/Winamac",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Indiana"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Indiana"
     },
     {
       "id": "America/Inuvik",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Inuvik"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Inuvik"
     },
     {
       "id": "America/Iqaluit",
       "country_code": "CA",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Iqaluit"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Iqaluit"
     },
     {
       "id": "America/Jamaica",
       "country_code": "JM",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Jamaica"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Jamaica"
     },
     {
       "id": "America/Juneau",
       "country_code": "US",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Juneau"
+      "offset": "-09:00",
+      "dst": "-08:00",
+      "text": "(GMT -09:00) Juneau"
     },
     {
       "id": "America/Kentucky/Louisville",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Kentucky"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Kentucky"
     },
     {
       "id": "America/Kentucky/Monticello",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Kentucky"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Kentucky"
     },
     {
       "id": "America/La_Paz",
       "country_code": "BO",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) La_Paz"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) La_Paz"
     },
     {
       "id": "America/Lima",
       "country_code": "PE",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Lima"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Lima"
     },
     {
       "id": "America/Los_Angeles",
       "country_code": "US",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Los_Angeles"
+      "offset": "-08:00",
+      "dst": "-07:00",
+      "text": "(GMT -08:00) Los_Angeles"
     },
     {
       "id": "America/Maceio",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Maceio"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Maceio"
     },
     {
       "id": "America/Managua",
       "country_code": "NI",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Managua"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Managua"
     },
     {
       "id": "America/Manaus",
       "country_code": "BR",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Manaus"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Manaus"
     },
     {
       "id": "America/Martinique",
       "country_code": "MQ",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Martinique"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Martinique"
     },
     {
       "id": "America/Matamoros",
       "country_code": "MX",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Matamoros"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Matamoros"
     },
     {
       "id": "America/Mazatlan",
       "country_code": "MX",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Mazatlan"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Mazatlan"
     },
     {
       "id": "America/Menominee",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Menominee"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Menominee"
     },
     {
       "id": "America/Merida",
       "country_code": "MX",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Merida"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Merida"
     },
     {
       "id": "America/Metlakatla",
       "country_code": "US",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Metlakatla"
+      "offset": "-09:00",
+      "dst": "-08:00",
+      "text": "(GMT -09:00) Metlakatla"
     },
     {
       "id": "America/Mexico_City",
       "country_code": "MX",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Mexico_City"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Mexico_City"
     },
     {
       "id": "America/Miquelon",
       "country_code": "PM",
-      "offset": "−03:00",
-      "dst": "−02:00",
-      "text": "(GMT −03:00) Miquelon"
+      "offset": "-03:00",
+      "dst": "-02:00",
+      "text": "(GMT -03:00) Miquelon"
     },
     {
       "id": "America/Moncton",
       "country_code": "CA",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Moncton"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Moncton"
     },
     {
       "id": "America/Monterrey",
       "country_code": "MX",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Monterrey"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Monterrey"
     },
     {
       "id": "America/Montevideo",
       "country_code": "UY",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Montevideo"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Montevideo"
     },
     {
       "id": "America/Toronto",
       "country_code": "",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Toronto"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Toronto"
     },
     {
       "id": "America/Nassau",
       "country_code": "BS",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Nassau"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Nassau"
     },
     {
       "id": "America/New_York",
       "country_code": "US",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) New_York"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) New_York"
     },
     {
       "id": "America/Nipigon",
       "country_code": "CA",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Nipigon"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Nipigon"
     },
     {
       "id": "America/Nome",
       "country_code": "US",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Nome"
+      "offset": "-09:00",
+      "dst": "-08:00",
+      "text": "(GMT -09:00) Nome"
     },
     {
       "id": "America/Noronha",
       "country_code": "BR",
-      "offset": "−02:00",
-      "dst": "−02:00",
-      "text": "(GMT −02:00) Noronha"
+      "offset": "-02:00",
+      "dst": "-02:00",
+      "text": "(GMT -02:00) Noronha"
     },
     {
       "id": "America/North_Dakota/Beulah",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) North_Dakota"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) North_Dakota"
     },
     {
       "id": "America/North_Dakota/Center",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) North_Dakota"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) North_Dakota"
     },
     {
       "id": "America/North_Dakota/New_Salem",
       "country_code": "US",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) North_Dakota"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) North_Dakota"
     },
     {
       "id": "America/Ojinaga",
       "country_code": "MX",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Ojinaga"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Ojinaga"
     },
     {
       "id": "America/Pangnirtung",
       "country_code": "CA",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Pangnirtung"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Pangnirtung"
     },
     {
       "id": "America/Paramaribo",
       "country_code": "SR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Paramaribo"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Paramaribo"
     },
     {
       "id": "America/Phoenix",
       "country_code": "US",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) Phoenix"
+      "offset": "-07:00",
+      "dst": "-07:00",
+      "text": "(GMT -07:00) Phoenix"
     },
     {
       "id": "America/Port-au-Prince",
       "country_code": "HT",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Port-au-Prince"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Port-au-Prince"
     },
     {
       "id": "America/Rio_Branco",
       "country_code": "",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) Rio_Branco"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) Rio_Branco"
     },
     {
       "id": "America/Porto_Velho",
       "country_code": "BR",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Porto_Velho"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Porto_Velho"
     },
     {
       "id": "America/Puerto_Rico",
       "country_code": "PR",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Puerto_Rico"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Puerto_Rico"
     },
     {
       "id": "America/Punta_Arenas",
       "country_code": "CL",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Punta_Arenas"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Punta_Arenas"
     },
     {
       "id": "America/Rainy_River",
       "country_code": "CA",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Rainy_River"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Rainy_River"
     },
     {
       "id": "America/Rankin_Inlet",
       "country_code": "CA",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Rankin_Inlet"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Rankin_Inlet"
     },
     {
       "id": "America/Recife",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Recife"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Recife"
     },
     {
       "id": "America/Regina",
       "country_code": "CA",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Regina"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Regina"
     },
     {
       "id": "America/Resolute",
       "country_code": "CA",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Resolute"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Resolute"
     },
     {
       "id": "America/Santarem",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Santarem"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Santarem"
     },
     {
       "id": "America/Santiago",
       "country_code": "CL",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Santiago"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Santiago"
     },
     {
       "id": "America/Santo_Domingo",
       "country_code": "DO",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) Santo_Domingo"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) Santo_Domingo"
     },
     {
       "id": "America/Sao_Paulo",
       "country_code": "BR",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Sao_Paulo"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Sao_Paulo"
     },
     {
       "id": "America/Scoresbysund",
       "country_code": "GL",
-      "offset": "−01:00",
+      "offset": "-01:00",
       "dst": "+00:00",
-      "text": "(GMT −01:00) Scoresbysund"
+      "text": "(GMT -01:00) Scoresbysund"
     },
     {
       "id": "America/Sitka",
       "country_code": "US",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Sitka"
+      "offset": "-09:00",
+      "dst": "-08:00",
+      "text": "(GMT -09:00) Sitka"
     },
     {
       "id": "America/St_Johns",
       "country_code": "CA",
-      "offset": "−03:30",
-      "dst": "−02:30",
-      "text": "(GMT −03:30) St_Johns"
+      "offset": "-03:30",
+      "dst": "-02:30",
+      "text": "(GMT -03:30) St_Johns"
     },
     {
       "id": "America/Swift_Current",
       "country_code": "CA",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Swift_Current"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Swift_Current"
     },
     {
       "id": "America/Tegucigalpa",
       "country_code": "HN",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Tegucigalpa"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Tegucigalpa"
     },
     {
       "id": "America/Thule",
       "country_code": "GL",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Thule"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Thule"
     },
     {
       "id": "America/Thunder_Bay",
       "country_code": "CA",
-      "offset": "−05:00",
-      "dst": "−04:00",
-      "text": "(GMT −05:00) Thunder_Bay"
+      "offset": "-05:00",
+      "dst": "-04:00",
+      "text": "(GMT -05:00) Thunder_Bay"
     },
     {
       "id": "America/Vancouver",
       "country_code": "CA",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Vancouver"
+      "offset": "-08:00",
+      "dst": "-07:00",
+      "text": "(GMT -08:00) Vancouver"
     },
     {
       "id": "America/Whitehorse",
       "country_code": "CA",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Whitehorse"
+      "offset": "-08:00",
+      "dst": "-07:00",
+      "text": "(GMT -08:00) Whitehorse"
     },
     {
       "id": "America/Winnipeg",
       "country_code": "CA",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Winnipeg"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Winnipeg"
     },
     {
       "id": "America/Yakutat",
       "country_code": "US",
-      "offset": "−09:00",
-      "dst": "−08:00",
-      "text": "(GMT −09:00) Yakutat"
+      "offset": "-09:00",
+      "dst": "-08:00",
+      "text": "(GMT -09:00) Yakutat"
     },
     {
       "id": "America/Yellowknife",
       "country_code": "CA",
-      "offset": "−07:00",
-      "dst": "−06:00",
-      "text": "(GMT −07:00) Yellowknife"
+      "offset": "-07:00",
+      "dst": "-06:00",
+      "text": "(GMT -07:00) Yellowknife"
     },
     {
       "id": "Antarctica/Casey",
@@ -1093,16 +1093,16 @@ export const timezone = [
     {
       "id": "Antarctica/Palmer",
       "country_code": "AQ",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Palmer"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Palmer"
     },
     {
       "id": "Antarctica/Rothera",
       "country_code": "AQ",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Rothera"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Rothera"
     },
     {
       "id": "Antarctica/Syowa",
@@ -1674,16 +1674,16 @@ export const timezone = [
     {
       "id": "Atlantic/Azores",
       "country_code": "PT",
-      "offset": "−01:00",
+      "offset": "-01:00",
       "dst": "+00:00",
-      "text": "(GMT −01:00) Azores"
+      "text": "(GMT -01:00) Azores"
     },
     {
       "id": "Atlantic/Bermuda",
       "country_code": "BM",
-      "offset": "−04:00",
-      "dst": "−03:00",
-      "text": "(GMT −04:00) Bermuda"
+      "offset": "-04:00",
+      "dst": "-03:00",
+      "text": "(GMT -04:00) Bermuda"
     },
     {
       "id": "Atlantic/Canary",
@@ -1695,9 +1695,9 @@ export const timezone = [
     {
       "id": "Atlantic/Cape_Verde",
       "country_code": "CV",
-      "offset": "−01:00",
-      "dst": "−01:00",
-      "text": "(GMT −01:00) Cape_Verde"
+      "offset": "-01:00",
+      "dst": "-01:00",
+      "text": "(GMT -01:00) Cape_Verde"
     },
     {
       "id": "Atlantic/Faroe",
@@ -1723,16 +1723,16 @@ export const timezone = [
     {
       "id": "Atlantic/South_Georgia",
       "country_code": "GS",
-      "offset": "−02:00",
-      "dst": "−02:00",
-      "text": "(GMT −02:00) South_Georgia"
+      "offset": "-02:00",
+      "dst": "-02:00",
+      "text": "(GMT -02:00) South_Georgia"
     },
     {
       "id": "Atlantic/Stanley",
       "country_code": "FK",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) Stanley"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) Stanley"
     },
     {
       "id": "Australia/Sydney",
@@ -1821,16 +1821,16 @@ export const timezone = [
     {
       "id": "Pacific/Easter",
       "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Easter"
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Easter"
     },
     {
       "id": "merica/Chicago",
       "country_code": "",
-      "offset": "−06:00",
-      "dst": "−05:00",
-      "text": "(GMT −06:00) Chicago."
+      "offset": "-06:00",
+      "dst": "-05:00",
+      "text": "(GMT -06:00) Chicago."
     },
     {
       "id": "Europe/Dublin",
@@ -1849,86 +1849,86 @@ export const timezone = [
     {
       "id": "Etc/GMT+1",
       "country_code": "",
-      "offset": "−01:00",
-      "dst": "−01:00",
-      "text": "(GMT −01:00) GMT+1"
+      "offset": "-01:00",
+      "dst": "-01:00",
+      "text": "(GMT -01:00) GMT+1"
     },
     {
       "id": "Etc/GMT+10",
       "country_code": "",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) GMT+10"
+      "offset": "-10:00",
+      "dst": "-10:00",
+      "text": "(GMT -10:00) GMT+10"
     },
     {
       "id": "Etc/GMT+11",
       "country_code": "",
-      "offset": "−11:00",
-      "dst": "−11:00",
-      "text": "(GMT −11:00) GMT+11"
+      "offset": "-11:00",
+      "dst": "-11:00",
+      "text": "(GMT -11:00) GMT+11"
     },
     {
       "id": "Etc/GMT+12",
       "country_code": "",
-      "offset": "−12:00",
-      "dst": "−12:00",
-      "text": "(GMT −12:00) GMT+12"
+      "offset": "-12:00",
+      "dst": "-12:00",
+      "text": "(GMT -12:00) GMT+12"
     },
     {
       "id": "Etc/GMT+2",
       "country_code": "",
-      "offset": "−02:00",
-      "dst": "−02:00",
-      "text": "(GMT −02:00) GMT+2"
+      "offset": "-02:00",
+      "dst": "-02:00",
+      "text": "(GMT -02:00) GMT+2"
     },
     {
       "id": "Etc/GMT+3",
       "country_code": "",
-      "offset": "−03:00",
-      "dst": "−03:00",
-      "text": "(GMT −03:00) GMT+3"
+      "offset": "-03:00",
+      "dst": "-03:00",
+      "text": "(GMT -03:00) GMT+3"
     },
     {
       "id": "Etc/GMT+4",
       "country_code": "",
-      "offset": "−04:00",
-      "dst": "−04:00",
-      "text": "(GMT −04:00) GMT+4"
+      "offset": "-04:00",
+      "dst": "-04:00",
+      "text": "(GMT -04:00) GMT+4"
     },
     {
       "id": "Etc/GMT+5",
       "country_code": "",
-      "offset": "−05:00",
-      "dst": "−05:00",
-      "text": "(GMT −05:00) GMT+5"
+      "offset": "-05:00",
+      "dst": "-05:00",
+      "text": "(GMT -05:00) GMT+5"
     },
     {
       "id": "Etc/GMT+6",
       "country_code": "",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) GMT+6"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) GMT+6"
     },
     {
       "id": "Etc/GMT+7",
       "country_code": "",
-      "offset": "−07:00",
-      "dst": "−07:00",
-      "text": "(GMT −07:00) GMT+7"
+      "offset": "-07:00",
+      "dst": "-07:00",
+      "text": "(GMT -07:00) GMT+7"
     },
     {
       "id": "Etc/GMT+8",
       "country_code": "",
-      "offset": "−08:00",
-      "dst": "−08:00",
-      "text": "(GMT −08:00) GMT+8"
+      "offset": "-08:00",
+      "dst": "-08:00",
+      "text": "(GMT -08:00) GMT+8"
     },
     {
       "id": "Etc/GMT+9",
       "country_code": "",
-      "offset": "−09:00",
-      "dst": "−09:00",
-      "text": "(GMT −09:00) GMT+9"
+      "offset": "-09:00",
+      "dst": "-09:00",
+      "text": "(GMT -09:00) GMT+9"
     },
     {
       "id": "Etc/GMT-1",
@@ -2472,16 +2472,16 @@ export const timezone = [
     {
       "id": "Pacific/Galapagos",
       "country_code": "EC",
-      "offset": "−06:00",
-      "dst": "−06:00",
-      "text": "(GMT −06:00) Galapagos"
+      "offset": "-06:00",
+      "dst": "-06:00",
+      "text": "(GMT -06:00) Galapagos"
     },
     {
       "id": "Pacific/Gambier",
       "country_code": "PF",
-      "offset": "−09:00",
-      "dst": "−09:00",
-      "text": "(GMT −09:00) Gambier"
+      "offset": "-09:00",
+      "dst": "-09:00",
+      "text": "(GMT -09:00) Gambier"
     },
     {
       "id": "Pacific/Guadalcanal",
@@ -2500,9 +2500,9 @@ export const timezone = [
     {
       "id": "Pacific/Honolulu",
       "country_code": "US",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) Honolulu"
+      "offset": "-10:00",
+      "dst": "-10:00",
+      "text": "(GMT -10:00) Honolulu"
     },
     {
       "id": "Pacific/Kiritimati",
@@ -2528,16 +2528,16 @@ export const timezone = [
     {
       "id": "Pacific/Marquesas",
       "country_code": "PF",
-      "offset": "−09:30",
-      "dst": "−09:30",
-      "text": "(GMT −09:30) Marquesas"
+      "offset": "-09:30",
+      "dst": "-09:30",
+      "text": "(GMT -09:30) Marquesas"
     },
     {
       "id": "Pacific/Pago_Pago",
       "country_code": "UM",
-      "offset": "−11:00",
-      "dst": "−11:00",
-      "text": "(GMT −11:00) Pago_Pago"
+      "offset": "-11:00",
+      "dst": "-11:00",
+      "text": "(GMT -11:00) Pago_Pago"
     },
     {
       "id": "Pacific/Nauru",
@@ -2549,9 +2549,9 @@ export const timezone = [
     {
       "id": "Pacific/Niue",
       "country_code": "NU",
-      "offset": "−11:00",
-      "dst": "−11:00",
-      "text": "(GMT −11:00) Niue"
+      "offset": "-11:00",
+      "dst": "-11:00",
+      "text": "(GMT -11:00) Niue"
     },
     {
       "id": "Pacific/Norfolk",
@@ -2577,9 +2577,9 @@ export const timezone = [
     {
       "id": "Pacific/Pitcairn",
       "country_code": "PN",
-      "offset": "−08:00",
-      "dst": "−08:00",
-      "text": "(GMT −08:00) Pitcairn"
+      "offset": "-08:00",
+      "dst": "-08:00",
+      "text": "(GMT -08:00) Pitcairn"
     },
     {
       "id": "Pacific/Pohnpei",
@@ -2598,16 +2598,16 @@ export const timezone = [
     {
       "id": "Pacific/Rarotonga",
       "country_code": "CK",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) Rarotonga"
+      "offset": "-10:00",
+      "dst": "-10:00",
+      "text": "(GMT -10:00) Rarotonga"
     },
     {
       "id": "Pacific/Tahiti",
       "country_code": "PF",
-      "offset": "−10:00",
-      "dst": "−10:00",
-      "text": "(GMT −10:00) Tahiti"
+      "offset": "-10:00",
+      "dst": "-10:00",
+      "text": "(GMT -10:00) Tahiti"
     },
     {
       "id": "Pacific/Tarawa",
@@ -2640,9 +2640,9 @@ export const timezone = [
     {
       "id": "America/PST",
       "country_code": "",
-      "offset": "−08:00",
-      "dst": "−07:00",
-      "text": "(GMT −08:00) Pacific Time"
+      "offset": "-08:00",
+      "dst": "-07:00",
+      "text": "(GMT -08:00) Pacific Time"
     },
     {
       "id": "Etc/UCT",
