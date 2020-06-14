@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![time.ts](https://raw.githubusercontent.com/burhanahmeed/time.ts/master/header.jpg)
+![time.ts](https://raw.githubusercontent.com/burhanahmeed/time.ts/master/header.png)
 
 ![release](https://badgen.net/github/release/burhanahmeed/time.ts)
 ![tags](https://badgen.net/github/tags/burhanahmeed/time.ts)
