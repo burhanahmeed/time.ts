@@ -9,41 +9,41 @@ const MINUTES_TO_MILISECOND = 60000;
 
 class Time {
     private _t: string | undefined;
-    public $d: Date;
+    public t: Date;
 
     constructor (time: number | string | undefined = undefined) {
-        this.$d = new Date();
+        this.t = new Date();
         this._t = convertToString(time);
         this.parse(time);
     }
 
     toString () {
-        return this.$d.toUTCString();
+        return this.t.toUTCString();
     }
 
     private parse (time: number | string | undefined) {
         if (time == undefined) {
-            this.$d = parseDate()
+            this.t = parseDate()
         } else {
-            this.$d = parseDate(time)
+            this.t = parseDate(time)
         }
     }
 
     public now () {
-        this.$d = parseDateNow();
+        this.t = parseDateNow();
         return this;
     }
 
     public tz (timezone: string = 'utc') {
         const { _t } = this;
         if (timezone == 'utc') {
-            this.$d = parseDate();
+            this.t = parseDate();
         } else {
             let t = new Timezone({
                 timezone,
                 time: _t
             });
-            this.$d = new Date(t.exec().manipulated);
+            this.t = new Date(t.exec().manipulated);
         }
         return this;
     }
