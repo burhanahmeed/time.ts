@@ -13,8 +13,11 @@
 
 
 
-#### Version: Time.ts v2.0.0
+#### Version: Time.ts v2.0.1
 Please refers to [Time.ts v1.0.0](https://github.com/burhanahmeed/time.ts/tree/v1.0.0) if still using the old version.
+
+changelogs: 
+- Add daylight saving time
 
 ## Deno
 - [Deno.land third party module](https://deno.land/x/time.ts)
@@ -27,15 +30,15 @@ import { Time, timezone } from "https://deno.land/x/time.ts/mod.ts";
 
 **More safe import**
 ```typescript
-import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.0/mod.ts";
+import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
 ```
 or
 ```typescript
-import { Time, timezone } from "https://deno.land/x/time.ts@v2.0.0/mod.ts";
+import { Time, timezone } from "https://deno.land/x/time.ts@v2.0.1/mod.ts";
 ```
 or
 ```typescript
-import { Time, timezone } from "https://denoland.id/x/time.ts@v2.0.0/mod.ts";
+import { Time, timezone } from "https://denoland.id/x/time.ts@v2.0.1/mod.ts";
 ```
 
 ## API
@@ -47,7 +50,7 @@ Here is a basic example to get started with Time.ts
 
 Check this out on [Example directory](https://github.com/burhanahmeed/time.ts/tree/master/example).
 ```typescript
-import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.0/mod.ts";
+import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
 
 console.log('Time now UTC: ',time().t)
 //Time now UTC:  2020-06-14T06:19:37.483Z
@@ -79,7 +82,7 @@ console.log('Time now of your server timezone: ',time().now())
 ```
 If you want to get the list of available timezone you can do like this.
 ```typescript
-import { timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.0/mod.ts";
+import { timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
 
 console.log(timezone)
 /**

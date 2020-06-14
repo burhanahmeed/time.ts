@@ -12,6 +12,14 @@ export interface TimezoneType {
     timezone?: string
 }
 
+export interface IDSTCheck {
+    id: string,
+    country_code: string,
+    offset: string,
+    dst: string,
+    text: string
+}
+
 // export interface TimeObject {
 //     toString: Function,
 //     current: string,
