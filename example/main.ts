@@ -1,9 +1,7 @@
 import { time } from "../mod.ts";
 
-console.log(time().toString())
-
 console.log(time())
 
-let a = new Date()
+console.log(`${time().tz('asia/singapore')}`)
 
-console.log(a)
+console.log(new Date())

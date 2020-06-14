@@ -4,69 +4,79 @@
  */
 
 import { Timezone } from "./timezone.ts";
-import { TimeType } from "./type.ts";
 
 const MINUTES_TO_MILISECOND = 60000;
 
 class Time {
-    public utc: string;
-    public now: string;
-    public _final: string;
-
     private _t: string | undefined;
+    public $d: Date;
 
-    constructor ({ time }: TimeType) {
-        this.utc = new Date().toString();
-        this._t = time;
-        this._final = '';
-        this.now = this.getServerTime();
+    constructor (time: number | string | undefined = undefined) {
+        this.$d = new Date();
+        this._t = convertToString(time);
+        this.parse(time);
     }
 
     toString () {
-        return this._final;
+        return this.$d.toUTCString();
     }
 
-    private getServerTime () {
-        let getDifferenceToUtcInMilisec = new Date().getTimezoneOffset() * MINUTES_TO_MILISECOND;
-        let getUTCMilisecond = new Date().getTime();
-        if (this._t) {
-            getUTCMilisecond = new Date(this._t).getTime();
+    private parse (time: number | string | undefined) {
+        if (time == undefined) {
+            this.$d = parseDate()
+        } else {
+            this.$d = parseDate(time)
         }
-        return new Date(getUTCMilisecond - getDifferenceToUtcInMilisec).toISOString();
+    }
+
+    public now () {
+        this.$d = parseDateNow();
+        return this;
     }
 
     public tz (timezone: string = 'utc') {
+        const { _t } = this;
         if (timezone == 'utc') {
-            this._final = this.utc;
+            this.$d = parseDate();
         } else {
             let t = new Timezone({
                 timezone,
-                time: this._t
+                time: _t
             });
-            this._final = t.exec().manipulated;
+            this.$d = new Date(t.exec().manipulated);
         }
         return this;
     }
     
+}
+
+function convertToString (time: any) {
+    if (typeof time == 'undefined') return undefined;
+    if (typeof time == 'string') return time;
+    return new Date(time).toISOString();
+}
+function parseDate (cfg: string | number | Date | undefined = undefined) {
+    if (cfg == undefined) return new Date(); //returns time now in UTC
+    if (cfg == null) return new Date(NaN); //invalid time
+    return new Date(cfg); //returns inputted time in UTC
+}
+function parseDateNow () {
+    let getDifferenceToUtcInMilisec = new Date().getTimezoneOffset() * MINUTES_TO_MILISECOND;
+    let getUTCMilisecond = new Date().getTime();
+
+    return new Date(getUTCMilisecond - getDifferenceToUtcInMilisec); //returns date based on server time
 }
 /**
  * 
  * @param time 
  * time() without any parameter will return datetime now on UTC time
  */
-export function times (time: string | undefined = undefined) {
-    // if (undefined == times().now) {
-    //     return { now: 'a' }
-    // }
-    let t = '';
-
-    let tclass = new Time({ time });
-
-    if (time) {
-        t = `${tclass}`;
-    } else {
-
-    }
-
-    return t
+function times (time: string | undefined = undefined) {
+    return new Time(time);
 }
+
+times.prototype = `${new Time()}`
+
+export {
+    times
+};
