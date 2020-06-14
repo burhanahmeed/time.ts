@@ -75,8 +75,18 @@ function times (time: string | undefined = undefined) {
     return new Time(time);
 }
 
-times.prototype = `${new Time()}`
+type AnyFunction = (...args: any) => any;
 
-export {
-    times
+const wrap = <Func extends AnyFunction>(
+  fn: Func,
+): ((...args: Parameters<Func>) => ReturnType<Func>) => {
+  const wrappedFn = (...args: Parameters<Func>): ReturnType<Func> => {
+      // your code here
+      return fn(...Array.from(args)).toString();
+  };
+  return wrappedFn;
 };
+
+times.prototype = wrap<typeof times>(times);
+
+export { times };
