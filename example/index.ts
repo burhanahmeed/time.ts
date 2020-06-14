@@ -1,4 +1,4 @@
-import { time } from "../mod.ts";
+import { time, timezone } from "../mod.ts";
 
 console.log('Time now UTC: ',time().t)
 //Time now UTC:  2020-06-14T06:19:37.483Z

@@ -86,17 +86,30 @@ import { timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts
 
 console.log(timezone)
 /**
- * List of timezone (it is not ordered by alphabet)
+ * List of timezones
 [
-  { text: "(GMT+00:00) Bissau", id: "Africa/Bissau" },
-  { text: "(GMT+02:00) Athens", id: "Europe/Athens" },
-  { text: "(GMT+05:00) Dushanbe", id: "Asia/Dushanbe" },
-  { text: "(GMT+00:00) Faeroe", id: "Atlantic/Faroe" },
-  { text: "(GMT+02:00) Helsinki", id: "Europe/Helsinki" },
-  { text: "(GMT-04:30) Caracas", id: "America/Caracas" },
-  { text: "(GMT-04:00) Manaus", id: "America/Manaus" },
-  { text: "(GMT+00:00) Accra", id: "Africa/Accra" },
-...
+  {
+    id: "Africa/Abidjan",
+    country_code: "CI",
+    offset: "+00:00",
+    dst: "+00:00",
+    text: "(GMT +00:00) Abidjan"
+  },
+  {
+    id: "Africa/Accra",
+    country_code: "GH",
+    offset: "+00:00",
+    dst: "+00:00",
+    text: "(GMT +00:00) Accra"
+  },
+  {
+    id: "Africa/Nairobi",
+    country_code: "ET",
+    offset: "+03:00",
+    dst: "+03:00",
+    text: "(GMT +03:00) Nairobi"
+  },
+  ....More
 ]
 */
 
