@@ -16,7 +16,7 @@
 #### Version: Time.ts v2.0.1
 Please refers to [Time.ts v1.0.0](https://github.com/burhanahmeed/time.ts/tree/v1.0.0) if still using the old version.
 
-changelogs: 
+**changelogs:**
 - Add daylight saving time
 
 ## Deno
