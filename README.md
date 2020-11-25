@@ -25,20 +25,20 @@ Please refers to [Time.ts v1.0.0](https://github.com/burhanahmeed/time.ts/tree/v
 
 **From master branch**
 ```typescript
-import { Time, timezone } from "https://deno.land/x/time.ts/mod.ts";
+import { time, timezone } from "https://deno.land/x/time.ts/mod.ts";
 ```
 
 **More safe import**
 ```typescript
-import { Time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
+import { time, timezone } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
 ```
 or
 ```typescript
-import { Time, timezone } from "https://deno.land/x/time.ts@v2.0.1/mod.ts";
+import { time, timezone } from "https://deno.land/x/time.ts@v2.0.1/mod.ts";
 ```
 or
 ```typescript
-import { Time, timezone } from "https://denoland.id/x/time.ts@v2.0.1/mod.ts";
+import { time, timezone } from "https://denoland.id/x/time.ts@v2.0.1/mod.ts";
 ```
 
 ## API
@@ -50,7 +50,7 @@ Here is a basic example to get started with Time.ts
 
 Check this out on [Example directory](https://github.com/burhanahmeed/time.ts/tree/master/example).
 ```typescript
-import { Time } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
+import { time } from "https://denopkg.com/burhanahmeed/time.ts@v2.0.1/mod.ts";
 
 console.log('Time now UTC: ',time().t)
 //Time now UTC:  2020-06-14T06:19:37.483Z
